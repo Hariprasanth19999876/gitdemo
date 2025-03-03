@@ -1,3 +1,0 @@
-demo 2 text file is created
-now command for update
-next update from web to local
